@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm kakeysword! 👋
 
-<!--
-**kakeysword/kakeysword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a passionate developer who loves building innovative solutions and contributing to open-source projects. I enjoy exploring new technologies and continuously learning to improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- **Languages**: Python, JavaScript, Java, C++
+- **Web Development**: HTML, CSS, React, Node.js
+- **Tools & Technologies**: Git, Docker, Linux, VS Code
+- **Databases**: MySQL, PostgreSQL, MongoDB
+
+## 🌱 Currently Learning
+
+- Advanced cloud architectures and microservices
+- Machine learning and AI applications
+- Best practices in software engineering and clean code
+
+## 🔭 What I'm Working On
+
+- Building scalable web applications
+- Contributing to open-source projects
+- Exploring new frameworks and technologies
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kakeysword&show_icons=true&theme=radical)
+
+## 📫 How to Reach Me
+
+- GitHub: [@kakeysword](https://github.com/kakeysword)
+- Feel free to open an issue or reach out through GitHub!
+
+## ⚡ Fun Fact
+
+I believe in the power of collaboration and the open-source community!
+
+---
+
+💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
