@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Carol, an aspiring software engineer currently studying Computer Science in Vancouver, BC!
+I'm Carol, an aspiring software engineer currently studying Computer Science in Vancouver, BC 🗻🌊
